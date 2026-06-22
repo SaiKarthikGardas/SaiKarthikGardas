@@ -1,0 +1,37 @@
+# Regenerates the neon stats card daily and on push
+name: update-stats-card
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run stats generator
+        run: python .github/workflows/scripts/generate_stats.py
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: List files (debug)
+        run: ls -la
+
+      - name: Commit stats.svg
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add stats.svg
+          git diff --staged --quiet || git commit -m "chore: update stats card"
+          git push
