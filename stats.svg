@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="280" viewBox="0 0 680 280">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;500;600&amp;display=swap');
+      .card { font-family: 'Fira Code', monospace; }
+    </style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0a1628"/>
+    </linearGradient>
+    <linearGradient id="border-grad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#7dcfff"/>
+      <stop offset="100%" stop-color="#58a6ff"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#ffffff" stroke-width="0.15" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="680" height="280" rx="16" fill="url(#bg)"/>
+  <rect width="680" height="280" rx="16" fill="url(#grid)"/>
+
+  <!-- Glowing border -->
+  <rect x="1" y="1" width="678" height="278" rx="15" fill="none" stroke="url(#border-grad)" stroke-width="1.5" opacity="0.7"/>
+
+  <!-- Title row -->
+  <text x="32" y="44" font-family="'Fira Code', monospace" font-size="13" fill="#7dcfff" opacity="0.8">// sai karthik gardas</text>
+  <text x="32" y="66" font-family="'Fira Code', monospace" font-size="20" font-weight="600" fill="#ffffff" filter="url(#glow)">Stats Card</text>
+
+  <!-- Divider -->
+  <line x1="32" y1="80" x2="648" y2="80" stroke="#58a6ff" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- GitHub stats - 3 metric boxes -->
+  <!-- Box 1: Stars -->
+  <rect x="32" y="98" width="180" height="72" rx="8" fill="#0e2040" stroke="#58a6ff" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="52" y="120" font-family="'Fira Code', monospace" font-size="11" fill="#7dcfff" opacity="0.7">GitHub Stars</text>
+  <text x="52" y="148" font-family="'Fira Code', monospace" font-size="26" font-weight="600" fill="#ffffff">1</text>
+
+  <!-- Box 2: Repos -->
+  <rect x="226" y="98" width="180" height="72" rx="8" fill="#0e2040" stroke="#58a6ff" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="246" y="120" font-family="'Fira Code', monospace" font-size="11" fill="#7dcfff" opacity="0.7">Public Repos</text>
+  <text x="246" y="148" font-family="'Fira Code', monospace" font-size="26" font-weight="600" fill="#ffffff">2</text>
+
+  <!-- Box 3: Followers -->
+  <rect x="420" y="98" width="228" height="72" rx="8" fill="#0e2040" stroke="#58a6ff" stroke-width="0.5" stroke-opacity="0.4"/>
+  <text x="440" y="120" font-family="'Fira Code', monospace" font-size="11" fill="#7dcfff" opacity="0.7">Followers</text>
+  <text x="440" y="148" font-family="'Fira Code', monospace" font-size="26" font-weight="600" fill="#ffffff">0</text>
+
+  <!-- Divider -->
+  <line x1="32" y1="188" x2="648" y2="188" stroke="#58a6ff" stroke-width="0.5" opacity="0.2"/>
+
+  <!-- LeetCode section label -->
+  <text x="32" y="210" font-family="'Fira Code', monospace" font-size="11" fill="#ffa116" opacity="0.9">LeetCode — 55 solved</text>
+
+  <!-- Easy bar -->
+  <text x="32" y="232" font-family="'Fira Code', monospace" font-size="10" fill="#00b8a3">Easy</text>
+  <rect x="80" y="222" width="260" height="10" rx="5" fill="#1a2a1a"/>
+  <rect x="80" y="222" width="99" height="10" rx="5" fill="#00b8a3"/>
+  <text x="350" y="232" font-family="'Fira Code', monospace" font-size="10" fill="#00b8a3">21 (38%)</text>
+
+  <!-- Medium bar -->
+  <text x="32" y="252" font-family="'Fira Code', monospace" font-size="10" fill="#ffa116">Med</text>
+  <rect x="80" y="242" width="260" height="10" rx="5" fill="#2a1a00"/>
+  <rect x="80" y="242" width="147" height="10" rx="5" fill="#ffa116"/>
+  <text x="350" y="252" font-family="'Fira Code', monospace" font-size="10" fill="#ffa116">31 (56%)</text>
+
+  <!-- Hard bar -->
+  <text x="32" y="272" font-family="'Fira Code', monospace" font-size="10" fill="#ef4743">Hard</text>
+  <rect x="80" y="262" width="260" height="10" rx="5" fill="#2a0000"/>
+  <rect x="80" y="262" width="14" height="10" rx="5" fill="#ef4743"/>
+  <text x="350" y="272" font-family="'Fira Code', monospace" font-size="10" fill="#ef4743">3 (5%)</text>
+</svg>
