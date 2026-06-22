@@ -139,7 +139,7 @@ cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
 ## 💻 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/KarthiXcode?theme=dark&font=Karla&ext=heatmap&border=0" />
+  <img src="https://leetcard.jacoblin.cool/KarthiXcode?theme=dark&font=Karla&ext=heatmap&border=0&t=1" />
 </p>
 
 ---
