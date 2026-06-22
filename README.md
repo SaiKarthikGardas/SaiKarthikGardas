@@ -1,6 +1,7 @@
+cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
 <!-- Animated header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a4a,100:1e3a5f&height=220&section=header&text=Sai%20Karthik%20Gardas&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Integration%20%7C%20Problem%20Solver&descSize=16&descAlignY=58&descColor=7dcfff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a4a,100:1e3a5f&height=220&section=header&text=Sai%20Karthik%20Gardas&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Integration%20%7C%20Problem%20Solver&descSize=16&descAlignY=58&descColor=7dcfff" />
 </p>
 
 <!-- Typing animation -->
@@ -120,30 +121,25 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SaiKarthikGardas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKarthikGardas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=SaiKarthikGardas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiKarthikGardas&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKarthikGardas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+<p align="center">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiKarthikGardas&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SaiKarthikGardas&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
 </p>
 
+---
+
 ## 💻 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/KarthiXcode?theme=dark&font=Karla&ext=heatmap&border=0" />
-</p>
-
----
-
-## 📈 Custom Stats Card (auto-updated daily)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SaiKarthikGardas/SaiKarthikGardas/main/stats.svg" />
 </p>
 
 ---
@@ -156,5 +152,7 @@
 
 <!-- Footer wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:0a2a4a,100:0d1117&height=130&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:0a2a4a,100:0d1117&height=130&section=footer" />
 </p>
+ENDOFFILE
+echo "Done"
