@@ -143,12 +143,6 @@
 
 ---
 
-<!-- Contribution snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SaiKarthikGardas/SaiKarthikGardas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-  <img src="https://raw.githubusercontent.com/SaiKarthikGardas/SaiKarthikGardas/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-</p>
-
 <!-- Footer wave -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:0a2a4a,100:0d1117&height=130&section=footer" />
