@@ -56,19 +56,19 @@
   <line x1="32" y1="188" x2="648" y2="188" stroke="#58a6ff" stroke-width="0.5" opacity="0.2"/>
 
   <!-- LeetCode section label -->
-  <text x="32" y="210" font-family="'Fira Code', monospace" font-size="11" fill="#ffa116" opacity="0.9">LeetCode — 55 solved</text>
+  <text x="32" y="210" font-family="'Fira Code', monospace" font-size="11" fill="#ffa116" opacity="0.9">LeetCode — 56 solved</text>
 
   <!-- Easy bar -->
   <text x="32" y="232" font-family="'Fira Code', monospace" font-size="10" fill="#00b8a3">Easy</text>
   <rect x="80" y="222" width="260" height="10" rx="5" fill="#1a2a1a"/>
-  <rect x="80" y="222" width="99" height="10" rx="5" fill="#00b8a3"/>
-  <text x="350" y="232" font-family="'Fira Code', monospace" font-size="10" fill="#00b8a3">21 (38%)</text>
+  <rect x="80" y="222" width="102" height="10" rx="5" fill="#00b8a3"/>
+  <text x="350" y="232" font-family="'Fira Code', monospace" font-size="10" fill="#00b8a3">22 (39%)</text>
 
   <!-- Medium bar -->
   <text x="32" y="252" font-family="'Fira Code', monospace" font-size="10" fill="#ffa116">Med</text>
   <rect x="80" y="242" width="260" height="10" rx="5" fill="#2a1a00"/>
-  <rect x="80" y="242" width="147" height="10" rx="5" fill="#ffa116"/>
-  <text x="350" y="252" font-family="'Fira Code', monospace" font-size="10" fill="#ffa116">31 (56%)</text>
+  <rect x="80" y="242" width="144" height="10" rx="5" fill="#ffa116"/>
+  <text x="350" y="252" font-family="'Fira Code', monospace" font-size="10" fill="#ffa116">31 (55%)</text>
 
   <!-- Hard bar -->
   <text x="32" y="272" font-family="'Fira Code', monospace" font-size="10" fill="#ef4743">Hard</text>
