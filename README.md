@@ -117,28 +117,31 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Stats
 
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=SaiKarthikGardas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
-<p align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKarthikGardas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-<p align="center">
-  <img width="400" src="https://streak-stats.demolab.com/?user=SaiKarthikGardas&theme=tokyonight&hide_border=true" />
-</p>
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+
+### GitHub
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=SaiKarthikGardas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=SaiKarthikGardas&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKarthikGardas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</td>
+<td width="50%" align="center">
+
+### LeetCode
+
+<img width="100%" src="https://leetcard.jacoblin.cool/KarthiXcode?theme=dark&font=Karla&ext=heatmap&border=0&t=1" />
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SaiKarthikGardas&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-</p>
-
----
-
-## 💻📈 LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/KarthiXcode?theme=dark&font=Karla&ext=heatmap&border=0&t=1" />
 </p>
 
 ---
