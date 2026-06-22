@@ -154,5 +154,3 @@ cat > /mnt/user-data/outputs/README.md << 'ENDOFFILE'
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,50:0a2a4a,100:0d1117&height=130&section=footer" />
 </p>
-ENDOFFILE
-echo "Done"
