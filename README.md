@@ -105,7 +105,7 @@
 
 ## 🏆 Featured Projects
 
-### 🔵 [AI-ScoreSight](https://github.com/SaiKarthikGardas/AI-ScoreSight) — EPL Match & Player Prediction System
+### 🔥 [AI-ScoreSight](https://github.com/SaiKarthikGardas/AI-ScoreSight) — EPL Match & Player Prediction System
 > Full-stack ML product: React frontend · Flask backend · REST APIs · XGBoost model layer  
 > Covers match outcomes, top scorers, and live league standings — deployed end-to-end  
 > Led a 3-person team · presented to ~3,000-member Infosys panel · team recognised as top-performing  
@@ -135,7 +135,7 @@
 
 ---
 
-## 💻 LeetCode Stats
+## 💻📈 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/KarthiXcode?theme=dark&font=Karla&ext=heatmap&border=0&t=1" />
