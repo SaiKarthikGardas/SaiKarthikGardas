@@ -126,7 +126,7 @@
   <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKarthikGardas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 <p align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=SaiKarthikGardas&theme=tokyonight&hide_border=true" />
+  <img width="400" src="https://streak-stats.demolab.com/?user=SaiKarthikGardas&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
