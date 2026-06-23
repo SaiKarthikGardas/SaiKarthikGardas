@@ -108,7 +108,7 @@
 ### 🔥 [AI-ScoreSight](https://github.com/SaiKarthikGardas/AI-ScoreSight) — EPL Match & Player Prediction System
 > Full-stack ML product: React frontend · Flask backend · REST APIs · XGBoost model layer  
 > Covers match outcomes, top scorers, and live league standings — deployed end-to-end  
-> Led a 3-person team · presented to ~3,000-member Infosys panel · team recognised as top-performing  
+> Led a team · presented to Infosys panel · team recognised as top-performing  
 > **[LIVE PROJECT LINK🚀](https://sai-karthik-gardas-epl.streamlit.app)**
 
 ### 🛡️ [SafeSense](https://github.com/SaiKarthikGardas/SafeSense) — AI-Based Threat Monitoring System
