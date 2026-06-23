@@ -125,29 +125,14 @@
 
 ### GitHub📈
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SaiKarthikGardas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SaiKarthikGardas&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img width="100%" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=SaiKarthikGardas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKarthikGardas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKarthikGardas&layout=compact&theme=default&hide_border=true&langs_count=8" />
-  <img width="100%" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKarthikGardas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=SaiKarthikGardas&theme=tokyonight&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=SaiKarthikGardas&theme=default&hide_border=true" />
-  <img width="100%" alt="GitHub Streak" src="https://streak-stats.demolab.com?user=SaiKarthikGardas&theme=tokyonight&hide_border=true" />
-</picture>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=SaiKarthikGardas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKarthikGardas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </td>
 <td width="50%" align="center">
 
 ### LeetCode🚀
 
-<img width="100%" src="https://leetcard.jacoblin.cool/KarthiXcode?theme=light,dark&font=Karla&ext=heatmap&border=0&t=202606230234" />
+<img width="100%" src="https://leetcard.jacoblin.cool/KarthiXcode?theme=dark&font=Karla&ext=heatmap&border=0&t=202606230234" />
 
 </td>
 </tr>
