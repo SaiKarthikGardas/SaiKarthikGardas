@@ -126,7 +126,6 @@
 ### GitHub
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=SaiKarthikGardas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="100%" src="https://streak-stats.demolab.com/?user=SaiKarthikGardas&theme=tokyonight&hide_border=true" />
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKarthikGardas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </td>
