@@ -8,12 +8,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=680&lines=Full-Stack+Engineer+%7C+React+%2B+Flask+%2B+Node.js;AI+Integration+%7C+ML+Pipelines+%2B+REST+APIs;Led+top-performing+team+at+Infosys+Springboard;Open+to+roles+in+Software+Dev+%2F+Full-Stack+%2F+Frontend" alt="Typing SVG" />
 </p>
 
+<!-- Status + Open to Work badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to-SDE%20Roles-success?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Currently-Prepping%20TCS%20NQT%202026-blueviolet?style=for-the-badge" />
+</p>
+
 <!-- Social badges -->
 <p align="center">
   <a href="https://linkedin.com/in/gardas-sai-karthik"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:saikarthikgardas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/KarthiXcode/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://sai-karthik-gardas-epl.streamlit.app"><img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+  <!-- TODO: replace # with your hosted resume link (Drive share link or a PDF in this repo) -->
+  <a href="#"><img src="https://img.shields.io/badge/Resume-FF5722?style=for-the-badge&logo=googledocs&logoColor=white" /></a>
   <a href="https://github.com/SaiKarthikGardas"><img src="https://komarev.com/ghpvc/?username=SaiKarthikGardas&style=for-the-badge&color=0e75b6" /></a>
 </p>
 
@@ -123,23 +131,32 @@
 <tr>
 <td width="50%" align="center">
 
-### GitHub🥷🏻
+### GitHub
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api?username=SaiKarthikGardas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKarthikGardas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-<img width="100%" src="https://streak-stats.demolab.com?user=SaiKarthikGardas&theme=tokyonight&hide_border=true" />
 
 </td>
 <td width="50%" align="center">
 
-### LeetCode🚀
+### LeetCode
 
 <img width="100%" src="https://leetcard.jacoblin.cool/KarthiXcode?theme=dark&font=Karla&ext=heatmap&border=0&t=202606230234" />
-
 
 </td>
 </tr>
 </table>
+
+<!-- Commit activity graph -->
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaiKarthikGardas&theme=tokyo-night&hide_border=true" />
+</p>
+
+<!-- 3D contribution calendar -->
+<!-- Requires .github/workflows/profile-3d-contrib.yml to be added — see SETUP.md -->
+<p align="center">
+  <img width="80%" src="https://raw.githubusercontent.com/SaiKarthikGardas/SaiKarthikGardas/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SaiKarthikGardas&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
