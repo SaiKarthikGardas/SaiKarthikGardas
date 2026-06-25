@@ -125,14 +125,14 @@
 
 ### GitHub📈
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=SaiKarthikGardas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&t=202606251401" />
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKarthikGardas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800&t=202606251401" />
-<img width="100%" src="https://streak-stats.demolab.com?user=SaiKarthikGardas&theme=tokyonight&hide_border=true&cache_seconds=1800&t=202606251401" /></td>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=SaiKarthikGardas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&t=202606251409" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKarthikGardas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800&t=202606251409" />
+<img width="100%" src="https://streak-stats.demolab.com?user=SaiKarthikGardas&theme=tokyonight&hide_border=true&cache_seconds=1800&t=202606251409" /></td>
 <td width="50%" align="center">
 
 ### LeetCode🚀
 
-<img width="100%" src="https://leetcard.jacoblin.cool/KarthiXcode?theme=dark&font=Karla&ext=heatmap&border=0&t=202606251401" />
+<img width="100%" src="https://leetcard.jacoblin.cool/KarthiXcode?theme=dark&font=Karla&ext=heatmap&border=0&t=202606251409" />
 
 </td>
 </tr>
