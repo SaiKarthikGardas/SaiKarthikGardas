@@ -1,4 +1,4 @@
-<!-- Animated header banner !!-->
+<!-- Animated header banner -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a4a,100:1e3a5f&height=220&section=header&text=Sai%20Karthik%20Gardas&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20Integration%20%7C%20Problem%20Solver&descSize=16&descAlignY=58&descColor=7dcfff" />
 </p>
