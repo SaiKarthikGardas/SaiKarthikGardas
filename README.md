@@ -117,7 +117,7 @@
 
 ---
 
-## 📊 Stats
+## 📊 Stats!
 
 <table width="100%">
 <tr>
