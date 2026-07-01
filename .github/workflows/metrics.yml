@@ -1,6 +1,6 @@
 name: metrics
 on:
-  schedule: [{cron: "0 * * * *"}]   # every hour
+  schedule: [{cron: "0 * * * *"}]   # hourly
   workflow_dispatch:
 jobs:
   metrics:
@@ -8,8 +8,9 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.stats.svg
+          filename: stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-          base: header, activity
+          base: header
           plugin_languages: yes
           plugin_languages_limit: 8
+          plugin_languages_analysis_timeout: 15
