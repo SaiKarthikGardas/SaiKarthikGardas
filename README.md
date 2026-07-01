@@ -119,16 +119,6 @@
 
 ## 📊 Stats!
 
-<table width="100%">
-<tr>
-<td width="50%" align="center">
-
-### GitHub📈
-
-<img width="100%" src="https://raw.githubusercontent.com/SaiKarthikGardas/SaiKarthikGardas/main/stats.svg" />
-<img width="100%" src="https://streak-stats.demolab.com?user=SaiKarthikGardas&theme=tokyonight&hide_border=true&cache_seconds=1800&t=202607010245" /></td>
-<td width="50%" align="center">
-
 ### LeetCode🚀
 
 <img width="100%" src="https://leetcard.jacoblin.cool/KarthiXcode?theme=dark&font=Karla&ext=heatmap&border=0&t=202607010245" />
