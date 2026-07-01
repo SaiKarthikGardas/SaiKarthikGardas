@@ -125,8 +125,7 @@
 
 ### GitHub📈
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=SaiKarthikGardas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&t=202607010245" />
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiKarthikGardas&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800&t=202607010245" />
+<img width="100%" src="https://raw.githubusercontent.com/SaiKarthikGardas/SaiKarthikGardas/main/stats.svg" />
 <img width="100%" src="https://streak-stats.demolab.com?user=SaiKarthikGardas&theme=tokyonight&hide_border=true&cache_seconds=1800&t=202607010245" /></td>
 <td width="50%" align="center">
 
