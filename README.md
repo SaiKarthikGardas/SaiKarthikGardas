@@ -121,12 +121,12 @@
 
 ### LeetCode🚀
 
-<img width="100%" src="https://leetcard.jacoblin.cool/KarthiXcode?theme=dark&font=Karla&ext=heatmap&border=0&t=202607030210" />
+<img width="100%" src="https://leetcard.jacoblin.cool/KarthiXcode?theme=dark&font=Karla&ext=heatmap&border=0&t=202607030620" />
 
 ---
 
 ### GitHub📈
-<img width="100%" src="https://streak-stats.demolab.com?user=SaiKarthikGardas&theme=tokyonight&hide_border=true&cache_seconds=1800&t=202607030210" /></td><td width="50%" align="center">
+<img width="100%" src="https://streak-stats.demolab.com?user=SaiKarthikGardas&theme=tokyonight&hide_border=true&cache_seconds=1800&t=202607030620" /></td><td width="50%" align="center">
 
 ---
 
