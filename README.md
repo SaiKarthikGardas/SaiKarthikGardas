@@ -95,9 +95,11 @@
   <a href="https://www.credly.com/go/V1WOLTvJ">
     <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </a>
+  <br/>
   <a href="https://www.credly.com/go/bznMcuQL">
     <img src="https://img.shields.io/badge/AWS-ML%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </a>
+  <br/>
   <img src="https://img.shields.io/badge/Infosys-Springboard%20Internship-007CC3?style=for-the-badge&logo=infosys&logoColor=white" />
 </p>
 
