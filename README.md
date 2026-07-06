@@ -117,19 +117,6 @@
 
 ---
 
-## 📊 Stats!
-
-### LeetCode🚀
-
-<img width="100%" src="https://leetcard.jacoblin.cool/KarthiXcode?theme=dark&font=Karla&ext=heatmap&border=0&t=202607060700" />
-
----
-
-### GitHub📈
-<img width="100%" src="https://streak-stats.demolab.com?user=SaiKarthikGardas&theme=tokyonight&hide_border=true&cache_seconds=1800&t=202607060700" /></td><td width="50%" align="center">
-
----
-
 <!-- Footer wave -->
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2a4a,100:1e3a5f&height=130&section=footer&speed=3" />
