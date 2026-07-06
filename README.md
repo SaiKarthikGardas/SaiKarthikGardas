@@ -100,7 +100,7 @@
     <img src="https://img.shields.io/badge/AWS-ML%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
   </a>
   <br/>
-  <a href="https://verify.onwingspan.com">
+  <a href="https://github.com/SaiKarthikGardas/SaiKarthikGardas/blob/main/certificates/infosys_springboard.pdf">
   <img src="https://img.shields.io/badge/Infosys-Springboard%20Internship-007CC3?style=for-the-badge&logo=infosys&logoColor=white" />
 </p>
 
