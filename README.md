@@ -14,6 +14,7 @@
   <a href="mailto:saikarthikgardas@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/KarthiXcode/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://sai-karthik-gardas-epl.streamlit.app"><img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" /></a>
+  <a href="https://mood-shift-six.vercel.app"><img src="https://img.shields.io/badge/Mood%20Shift-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/SaiKarthikGardas"><img src="https://komarev.com/ghpvc/?username=SaiKarthikGardas&style=for-the-badge&color=0e75b6" /></a>
 </p>
 
@@ -127,6 +128,12 @@
 > Covers match outcomes, top scorers, and live league standings — deployed end-to-end  
 > Led a team · presented to Infosys panel · team recognised as top-performing  
 > **[LIVE PROJECT LINK🚀](https://sai-karthik-gardas-epl.streamlit.app)**
+
+### 🎶 [Mood Shift](https://github.com/SaiKarthikGardas/Mood_Shift) — Mood-Reversing Music Curator
+> React frontend with a fully custom design system — no UI library, hand-built animations  
+> Picks music based on where you *should* end up emotionally, not just where you are — a mood → intent mapping instead of a 1:1 mirror  
+> Inline YouTube playback, 3 languages, fully responsive down to small phones  
+> **[LIVE PROJECT LINK🚀](https://mood-shift-six.vercel.app)**
 
 ### 🛡️ [SafeSense](https://github.com/SaiKarthikGardas/SafeSense) — AI-Based Threat Monitoring System
 > Real-time object-detection pipeline using YOLOv8 + OpenCV  
