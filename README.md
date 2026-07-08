@@ -142,7 +142,7 @@
 ---
 
 <div align="center">
-  If something here helped you, a ⭐ means a lot — it tells me someone actually found it useful.
+  If something here helped you, a ⭐ means a lot — it tells me someone actually found it useful🚀.
 </div>
 
 ---
