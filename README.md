@@ -113,7 +113,8 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SaiKarthikGardas&theme=aura)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SaiKarthikGardas&theme=aura)
 
-![](./profile/streak.svg)
+![](https://github-readme-streak-stats.herokuapp.com/?user=SaiKarthikGardas&theme=aura&hide_border=true)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SaiKarthikGardas&theme=aura)
 
 </div>
